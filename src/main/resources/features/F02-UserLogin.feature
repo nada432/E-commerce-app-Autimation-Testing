@@ -1,3 +1,4 @@
+@smoke
 Feature: User Login
   I want check user can login after registration
   Scenario: User Login

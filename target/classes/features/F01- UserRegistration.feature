@@ -1,3 +1,4 @@
+@smoke
 Feature: User Registration
   I want to check that user can register in our e-commerce website
   Scenario Outline: User Registration

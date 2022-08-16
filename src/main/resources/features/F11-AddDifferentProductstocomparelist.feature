@@ -1,3 +1,4 @@
+@smoke
 Feature: Add different products to compare list
   I want Add different products to compare list
   Scenario Outline: Add different products to compare list

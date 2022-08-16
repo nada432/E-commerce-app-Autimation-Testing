@@ -1,3 +1,4 @@
+@smoke
 Feature: search for product
   I want to search for product
   Scenario: search for product

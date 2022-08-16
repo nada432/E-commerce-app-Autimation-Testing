@@ -1,3 +1,4 @@
+@smoke
 Feature:Filter product with color
   I want select product and filter with color
   Scenario: Filter product with color

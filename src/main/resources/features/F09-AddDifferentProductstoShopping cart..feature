@@ -1,4 +1,4 @@
-
+@smoke
 Feature: Add Different Products to Shopping cart
   I want add Different Products to Shopping cart
 

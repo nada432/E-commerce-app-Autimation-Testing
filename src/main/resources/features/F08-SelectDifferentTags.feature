@@ -1,3 +1,4 @@
+@smoke
 Feature: select different tags
   I want select different tags of products
   Scenario: select different tags

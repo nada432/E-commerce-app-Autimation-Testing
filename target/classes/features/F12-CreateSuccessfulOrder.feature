@@ -9,6 +9,6 @@ Feature: Create successful order
     And User choose payment method in payment method page
     Then User comfirm order
 
-    |nada     |mohamed| nada12345@gmail.com fayoum|dala st|12345|0997968576454|
+
 
 

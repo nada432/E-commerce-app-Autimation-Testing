@@ -1,3 +1,4 @@
+@smoke
 Feature: switch between currencies
   I want switch between currencies US-Euro
 Scenario: switch between currencies

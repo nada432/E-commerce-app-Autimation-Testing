@@ -1,3 +1,4 @@
+@smoke
 Feature: Select different Categories
   I want to select different catagories
   Scenario:  Select different Categories

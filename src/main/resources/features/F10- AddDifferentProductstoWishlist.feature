@@ -1,3 +1,4 @@
+@smoke
 Feature: Add Different Products to Wishlist
   I want to add different products to wishlist
  Scenario Outline: Add Different Products to Wishlist

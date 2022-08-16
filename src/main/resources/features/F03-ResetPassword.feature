@@ -1,3 +1,4 @@
+@smoke
 Feature: Reset Password
 I want reset password successfully
   Scenario: Reset password
